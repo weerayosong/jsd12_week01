@@ -1,0 +1,10 @@
+{
+    "name": "Weerayos",
+    "age": 38,
+    "isGraduated": false,
+    "hobbies": [
+        "Reading",
+        "Excercising",
+        "Running"
+    ]
+}
